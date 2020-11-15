@@ -27,9 +27,8 @@ We have a quality README (with unique name, description, technologies used, scre
 
 
 ## Preview of Deployed pages 
-![screenshot](https://user-images.githubusercontent.com/71221166/99153925-c17f6680-2660-11eb-91e6-1a2f831bf75e.png)
-![screenshot2](https://user-images.githubusercontent.com/71221166/99153926-c2b09380-2660-11eb-9cca-fc3bb9e33b40.png)
-
+![screenshot](https://user-images.githubusercontent.com/65749636/99196495-9587e200-2741-11eb-85f5-f111381453d0.png)
+![screenshot2](https://user-images.githubusercontent.com/65749636/99196506-9de01d00-2741-11eb-97ed-492b3478d170.png)
 
 ## Links
 -[Preview Link to Master url](https://orionvtg.github.io/Popcorn-Tagger/)
