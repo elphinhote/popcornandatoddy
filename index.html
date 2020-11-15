@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popcorn Tagger</title>
+    <link rel="stylesheet" href="./assets/css/materialize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+</head>
+
+<body>
+
+    <!--logo nav-->
+
+    <nav>
+      <div class="orange nav-wrapper">
+        <a href="#!" id= "logotext" class="hide-on-med-and-down brand-logo">Popcorn Tagger</a>
+        <img id="logoimg" src="./assets/ig/logo.jpg" alt="logo" width="64" height="64">
+        <ul class="right">
+          <li><a class="waves-effect yellow darken-1 btn-large modal-trigger" href="#modal1">Top 5 Movies by Genre Filter</a></li>
+        </ul>
+      </div> 
+    </nav>
+    
+    <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <h4>Pick your favorite Genre</h4>
+      <div class="input-field col s12">
+        <select id="genreSelect">
+          <option>Genres</option>
+        </select>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <a id='search' onclick='myFunction(event)' class="modal-close waves-effect yellow darken-1  btn-flat">Butter Some Popcorn!</a>
+    </div>
+  </div>
+<div class="resultContainer">
+  <h3 id="rank">Most Popular Movie Title:</h3><h3 id='movieTitle1'></h3>
+  <h3 id="ratingtext">Avg Rating:</h4><h4 id='movieRating1' class="ratingTextColor"></h3>
+    <h3 id="ratingtext">IMDB Rating:</h3><h3 id="imdbRating1" class="ratingTextColor"></h3>
+  <h3 id="dates">Release Date:</h3><h3 id='movieDate1' class="ratingTextColor"></h3>
+  <p id="description">Description:</p><p id='movieOverview1'></p>
+  <div id='moviePoster1'></div> 
+  <br/>
+  <br/>
+  <h3 id="rank">2nd Most Popular Movie Title:</h3><h3 id='movieTitle2'></h3>
+  <h3 id="ratingtext">Avg Rating:</h4><h4 id='movieRating2' class="ratingTextColor"></h3>
+    <h3 id="ratingtext">IMDB Rating:</h3><h3 id='imdbRating2' class="ratingTextColor"></h3>
+  <h3 id="dates">Release Date:</h3><h3 id='movieDate2' class="ratingTextColor"></h3>
+  <p id="description">Description:</p><p id='movieOverview2'></p>
+  <div id='moviePoster2'></div>
+  <br/>
+  <br/>
+  <h3 id="rank">3rd Most Popular Movie Title:</h3><h3 id='movieTitle3'></h3>
+  <h3 id="ratingtext">Avg Rating:</h4><h4 id='movieRating3' class="ratingTextColor"></h3>
+    <h3 id="ratingtext">IMDB Rating:</h3><h3 id='imdbRating3' class="ratingTextColor"></h3>
+  <h3 id="dates">Release Date:</h3><h3 id='movieDate3' class="ratingTextColor"></h3>
+  <p id="description">Description:</p><p id='movieOverview3'></p>
+  <div id='moviePoster3'></div>
+  <br/>
+  <br/>
+  <h3 id="rank">4th Most Popular Movie Title:</h3><h3 id='movieTitle4'></h3>
+  <h3 id="ratingtext">Avg Rating:</h4><h4 id='movieRating4' class="ratingTextColor"></h3>
+    <h3 id="ratingtext">IMDB Rating:</h3><h3 id='imdbRating4' class="ratingTextColor"></h3>
+  <h3 id="dates">Release Date:</h3><h3 id='movieDate4' class="ratingTextColor"></h3>
+  <p id="description">Description:</p><p id='movieOverview4'></p>
+  <div id='moviePoster4'></div>
+  <br/>
+  <br/>
+  <h3 id="rank">5th Most Popular Movie Title:</h3><h3 id='movieTitle5'></h3>
+  <h3 id="ratingtext">Avg Rating:</h4><h4 id='movieRating5' class="ratingTextColor"></h3>
+    <h3 id="ratingtext">IMDB Rating:</h3><h3 id='imdbRating5' class="ratingTextColor"></h3>
+  <h3 id="dates">Release Date:</h3><h3 id='movieDate5' class="ratingTextColor"></h3>
+  <p id="description">Description:</p><p id='movieOverview5'></p>
+  <div id='moviePoster5'></div>
+  <br/>
+  <br/>
+</div>
+ 
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script type="text/javascript" src="assets/js/materialize.js"></script>
+</body>
+</html>
