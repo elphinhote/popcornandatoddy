@@ -6,14 +6,23 @@ Project 1 Movie Search Engine
 
 
  Our movie search engine is for everyone who wants to search movies from a genre, get movie ratings and descriptions of the movie.
-Our project fullfills all requirements
+Our project fullfills all requirements.
+
+
 We use Materialize.com as a CSS framework.
+
 We have deployed to GitHub Pages.
+
 We’re interactive (i.e., accept and respond to user input).
+
 We’re using at least two server-side APIs.
-Does not use alerts, confirms, or prompts (use modals).
+
+We have not used alerts, confirms, or prompts (use modals).
+
 We use client-side storage to store persistent data.
+
 Have a polished UI.
+
 We have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
 
