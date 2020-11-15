@@ -32,8 +32,12 @@ We have a quality README (with unique name, description, technologies used, scre
 
 
 ## Links
--[Preview Link ](https://orionvtg.github.io/Popcorn-Tagger/)
--[Link to Github](https://github.com/orionvtg/Popcorn-Tagger)
+-[Preview Link to Master url](https://orionvtg.github.io/Popcorn-Tagger/)
+
+
+-[Link to Master Github Repo](https://github.com/orionvtg/Popcorn-Tagger)
+
+
 
 ## Acknowledgments
 * Thank you to those grading this assignment. All criticism is welcomed and appreciated. 
