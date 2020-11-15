@@ -1,4 +1,4 @@
-# popcornandatoddy
+# Popcornandatoddy
 Project 1 Movie Search Engine 
 
 
