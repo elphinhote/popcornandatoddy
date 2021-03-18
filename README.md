@@ -25,6 +25,15 @@ Have a polished UI.
 
 We have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
+## Technologies Used
+
+* Materialize
+
+* Javascript
+
+* Style.CS
+
+* HTML
 
 ## Preview of Deployed pages 
 ![screenshot](https://user-images.githubusercontent.com/65749636/99196495-9587e200-2741-11eb-85f5-f111381453d0.png)
