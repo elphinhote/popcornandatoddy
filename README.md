@@ -35,6 +35,8 @@ We have a quality README (with unique name, description, technologies used, scre
 
 * HTML
 
+* IMDB API
+
 ## Preview of Deployed pages 
 ![screenshot](https://user-images.githubusercontent.com/65749636/99196495-9587e200-2741-11eb-85f5-f111381453d0.png)
 ![screenshot2](https://user-images.githubusercontent.com/65749636/99196506-9de01d00-2741-11eb-97ed-492b3478d170.png)
