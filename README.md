@@ -31,7 +31,7 @@ We have a quality README (with unique name, description, technologies used, scre
 
 * Javascript
 
-* Style.CS
+* Style.CSS
 
 * HTML
 
@@ -48,7 +48,6 @@ We have a quality README (with unique name, description, technologies used, scre
 
 
 ## Acknowledgments
-* Thank you to those grading this assignment. All criticism is welcomed and appreciated. 
 * Thank you to the great team who came together on this project.
 
 
